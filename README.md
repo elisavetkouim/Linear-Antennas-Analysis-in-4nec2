@@ -16,6 +16,6 @@ This repository contains all the .nec files for building the antennas' structure
 
 Using 4nec2 software:
 - design of the structure, input impedence & reflection coefficient
-- horizontal, vertical & 3D radiation patterns for different frewuencies, intrpretation of the resutls
+- horizontal, vertical & 3D radiation patterns for different frequencies, intrpretation of the resutls
 ---
 *The report is in Greek*
