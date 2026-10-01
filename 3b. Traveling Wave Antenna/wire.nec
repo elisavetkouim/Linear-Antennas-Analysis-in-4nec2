@@ -1,0 +1,29 @@
+CM Travelling-wave horizontal wire, 5 lambda over perfect ground
+CM f0 = 12 MHz
+CM  -----------------------
+CM  Geometry
+CM  -----------------------
+CM  -----------------------
+CM  Perfect ground
+CM  -----------------------
+CM  -----------------------
+CM  Excitation at input (x=0 end)
+CM  -----------------------
+CM  -----------------------
+CM  Load (termination) at far end (x = L)
+CM  -----------------------
+CM  -----------------------
+CM  Frequency sweep
+CM  0.5 f0 to 1.5 f0
+CM  -----------------------
+CE
+GW	1	150	0	0	6.25	0	125	6.25	0.025
+GW	2	7	0	0	6.25	0	0	0	0.025
+GW	3	7	0	125	6.25	0	125	0	0.025
+GE	1
+LD	4	3	4	4	400
+GN	0	0	0	0	17	0.015
+EK
+EX	0	2	4	0	1	0	0
+FR	0	0	0	0	12	0
+EN
